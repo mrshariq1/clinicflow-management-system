@@ -1,0 +1,6 @@
+{
+  "name": "ClinicFlow",
+  "description": "ClinicFlow is a modern SaaS-style clinic management system designed as a portfolio/demo project for showcasing custom management systems to potential clients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
